@@ -1,0 +1,6 @@
+{
+  "name": "Bev2 Photobox",
+  "description": "A simple mobile photobox app with landscape/portrait layouts, 7 filters, 6 frame styles (including Teh Tjap Solo retro heritage frame), 2x2 grid, and high-resolution JPG download.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
